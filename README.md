@@ -1,1 +1,3 @@
 # julia-optim
+
+This jupyter notebook shows a simple application of linear optimization using Julia (via the JuMP and GLPK packages). The example uses a classic farming problem, where a farmer has to maximize profits given certain land, buget, and time constraints...
